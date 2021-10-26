@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakezweru
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React-redux
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m currently working on React-redux Project
+- 💞️ I’m looking to collaborate on Javascript and Python Projects
 - 📫 How to reach me email jakezweru@gmail.com
 
 <!---
